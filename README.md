@@ -1,5 +1,7 @@
-# 💫 About Me:
-¡Bienvenido a mi perfil!<br><br>Soy un desarrollador apasionado por la tecnología y el mundo TI. Busco constantemente oportunidades para crecer y mejorar en este sector. Me considero una persona responsable, proactiva y entusiasta frente a nuevos desafíos.
+# 🧑‍💻 Sobre mí  
+👋 ¡Hola y bienvenidos a mi perfil!  
+
+Soy un desarrollador apasionado por la tecnología y el mundo TI. Siempre estoy buscando oportunidades para crecer, aprender y mejorar mis habilidades. Me considero una persona responsable, proactiva y entusiasta frente a nuevos desafíos.  
 
 
 ## 🌐 Socials:
