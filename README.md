@@ -4,7 +4,7 @@
 Soy un desarrollador apasionado por la tecnología y el mundo TI. Siempre estoy buscando oportunidades para crecer, aprender y mejorar mis habilidades. Me considero una persona responsable, proactiva y entusiasta frente a nuevos desafíos.  
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2328a745.svg?style=plastic&logo=internet-explorer&logoColor=white)](https://portfolio-pablo-krai.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-kraiñuk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pablo-krai@hotmail.com) 
 
 # 💻 Tech Stack:
